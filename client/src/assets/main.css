@@ -1,0 +1,8 @@
+@import "./base.css";
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "IBM Plex Sans Thai", sans-serif;
+}
